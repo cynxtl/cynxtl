@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="cat" width="32" height="32" />
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="cat" width="34" height="34" />
  , I'm Arnav</h1>
 <h3 align="center">A passionate CS enthusiast from India.</h3>
 
