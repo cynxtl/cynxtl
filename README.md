@@ -2,6 +2,8 @@
  , I'm Arnav</h1>
 <h3 align="center">A passionate CS enthusiast from India.</h3>
 
+- 🔭 I’m currently working on **Upskilling and learning new Skills**
+  
 - 🌱 I’m currently learning **Front-end web development**
 
 - 📫 How to reach me **arnavkme@gmail.com**
