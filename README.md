@@ -1,25 +1,108 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="cat" width="34" height="34" />
- , I'm Arnav</h1>
-<h3 align="center">A passionate CS enthusiast from India.</h3>
+# Arnav Karmankar
 
-- 🔭 I’m currently working on **Upskilling and learning new Skills**
-  
-- 🌱 I’m currently learning **Front-end web development**
+```python
+#!/usr/bin/env python3
 
-- 📫 How to reach me **arnavkme@gmail.com**
+class Builder:
 
-- ⚡ Fun fact **no fun fact**
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.focus = [
+            "Applied AI",
+            "Information Retrieval",
+            "Data Analytics",
+            "Backend Engineering",
+        ]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cynstl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cynstl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arnavkme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnavkme" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<break>
+    def building(self):
+        return "Intelligent systems."
 
 
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="cat" width="40" height="40" />
+me = Builder()
+
+print(me.building())
+```
+
+Computer Science @ MIT-ADT University  
+
+**Artificial Intelligence & Analytics** • Minor in **Financial Technology**
+
+I enjoy building software that combines AI, data, and backend engineering to solve practical problems.
+
+---
+
+## Projects
+
+### TruthSetu
+
+Multi-agent AI platform for crisis misinformation detection using Retrieval-Augmented Generation (RAG), vector search, multilingual NLP, and autonomous web search.
+
+### Legal Information Retrieval System
+
+Semantic legal search engine powered by InLegalBERT, LangChain, FAISS, and Mistral.
+
+### Movie Recommendation System
+
+Content-based recommendation engine using TF-IDF, cosine similarity, and semantic similarity.
+
+### Decentralized Micro-Lending DApp
+
+Ethereum-based peer-to-peer lending platform built with Solidity, Hardhat, React, and Ethers.js for Financial Technology coursework.
+
+---
+
+## Tech Stack
+
+### Artificial Intelligence
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white&color=6aa6f8)
+![FAISS](https://img.shields.io/badge/FAISS-0096FF?style=flat&color=6aa6f8)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black&color=6aa6f8)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=6aa6f8)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+
+### Backend & Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white&color=6aa6f8)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&color=6aa6f8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+
+### Data
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&color=6aa6f8)
+
+---
+
+## GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=cynxtl&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cynxtl&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavkme)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavkme@gmail.com)
