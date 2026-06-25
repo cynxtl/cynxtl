@@ -25,7 +25,7 @@ print(me.building())
 
 Computer Science @ MIT-ADT University  
 
-**Artificial Intelligence & Analytics** • Minor in **Financial Technology**
+Specialization in **Artificial Intelligence & Analytics** • Minor in **Financial Technology**
 
 I enjoy building software that combines AI, data, and backend engineering to solve practical problems.
 
